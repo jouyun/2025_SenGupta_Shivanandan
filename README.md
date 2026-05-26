@@ -8,3 +8,5 @@ QuantifyKinetochoreProteins.ipynb:  For finding the two CenpA foci associated wi
 QuantifyAnnotatedLines.ipynb:  Takes images and ImageJ roi files, thresholds based on otsu, and aggregates signal for objects near the drawn line.  In the case of two lines being drawn in close proximity:  watershedding is used to divy up pixels that are near both.
 
 A-QuantifyKinetochoreProteinsUsingROIs.ipynb:  Same as above, but uses ImageJ annotated ROI files instead of automatically segmenting based on otsu.  This was applied for the SGO and TopoII new data only.
+
+DistanceToMetaphasePlate.ipynb:  Takes annotated points, rotates in 3D, measures distances to center of metaphase plate in X,Y,Z.
