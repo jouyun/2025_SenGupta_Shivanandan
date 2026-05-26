@@ -12,3 +12,5 @@ A-QuantifyKinetochoreProteinsUsingROIs.ipynb:  Same as above, but uses ImageJ an
 DistanceToMetaphasePlate.ipynb:  Takes annotated points, rotates in 3D, measures distances to center of metaphase plate in X,Y,Z.
 
 A-QuantifyKinetochoreProteins.ipynb:  Looks at the different haplotypes, quantifies distance to nuclear center and compares.
+
+PerturbationAnalysis/:  Reversin perturbation analysis on the number of foci found per nucleus.
