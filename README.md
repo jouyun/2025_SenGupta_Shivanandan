@@ -10,3 +10,5 @@ QuantifyAnnotatedLines.ipynb:  Takes images and ImageJ roi files, thresholds bas
 A-QuantifyKinetochoreProteinsUsingROIs.ipynb:  Same as above, but uses ImageJ annotated ROI files instead of automatically segmenting based on otsu.  This was applied for the SGO and TopoII new data only.
 
 DistanceToMetaphasePlate.ipynb:  Takes annotated points, rotates in 3D, measures distances to center of metaphase plate in X,Y,Z.
+
+A-QuantifyKinetochoreProteins.ipynb:  Looks at the different haplotypes, quantifies distance to nuclear center and compares.
