@@ -14,3 +14,5 @@ DistanceToMetaphasePlate.ipynb:  Takes annotated points, rotates in 3D, measures
 A-QuantifyKinetochoreProteins.ipynb:  Looks at the different haplotypes, quantifies distance to nuclear center and compares.
 
 PerturbationAnalysis/:  Reversin perturbation analysis on the number of foci found per nucleus.
+
+HaplotypeCenteromereToNuclearCenter.ipynb:  Segments nuclei with otsu in 3D, localizes centromeric spots using LoG and peak_local_max.
